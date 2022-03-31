@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alSm -d */
+ls -aSm -d */
