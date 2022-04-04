@@ -1,1 +1,2 @@
-echo -e \'\'\(Ôo\)\'
+#!/bin/bash
+cat /root/alx-system_engineering-devops/0x02-shell_redirections/smiley_face
